@@ -1,0 +1,24 @@
+						ASSIGNMENT 1.5
+
+1) Explain hadoop in layman's term
+
+Hadoop  in layman's term can be defined as two components,
+(i)HDFS : It is used to store very large data sets reliably, and to stream those data sets at high bandwidth to user applications.
+(ii)Mapreduce:It is a processing technique and a program model for distributed computing based on java. 
+                         It also contains HIVE,PIG for processing.
+
+
+2. Explain the components of Hadoop framework
+
+(i) MapReduce – A software programming model for processing large sets of data in parallel.
+(ii) HDFS – The Java-based distributed file system that can store all kinds of data without prior organization.
+(iii) YARN – A resource management framework for scheduling and handling resource requests from distributed applications.
+
+
+3. Explain the reasons to learn Big data technologies
+
+(i)To pace up with the exponentially growing Big Data Market.
+(ii) Hadoop brings in better career opportunities in 2015.
+(iii) No signs of slowing down. 
+(iv) Information Managers in Demand.
+(v)Software Options Galore
